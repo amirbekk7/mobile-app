@@ -1,0 +1,96 @@
+.container{
+    max-width: 390px;
+    margin: 0;
+    padding: 0 20px;
+}
+
+.h_top .h_top_img{
+    width: 360px;
+    /* margin-top: -0px; */
+    margin-left: -15px;
+}
+.user-card{
+    width: 150px;
+    height: 150px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #aca6a6;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    margin-top: 24px;
+    margin-left: 80px;
+}
+.user {
+    /* display: flex; */
+    justify-content: center;
+}
+.user-name{
+    margin-top: 20px;
+    margin-left: 90px;
+}
+.area{
+    margin-top: -20px;
+    margin-left: 120px;
+}
+.add{
+ background: white;
+ padding: 10px;
+ color: black;
+ border: 1px solid black;
+ border-radius: 12px;
+ margin-left: 50px;
+ margin-top: 30px;
+}
+.follow{
+    background: black;
+    padding: 10px 25px;
+    color: white;
+    border: 1px solid white;
+    border-radius: 12px;
+}
+.about{
+    width: 300px;
+    margin-top: 30px;
+    color: gray;
+}
+.about-p{
+    margin-left: 10px;
+}
+.about-p2{
+    font-size: 10px;
+    color:gray;
+    margin-left: 10px;
+}
+.photos_card{
+    width: 95px;
+    height: 92px;
+    background-color: #ccc5c5;
+}
+.photos{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+.photos_card2{
+    width: 95px;
+    height: 92px;
+    background-color: #ccc5c5;
+}
+.photos2{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 10px;
+}
+.photos_card3{
+    width: 95px;
+    height: 22px;
+    background-color: #ccc5c5;
+}
+.photos3{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 10px;
+}

@@ -1,0 +1,55 @@
+.container{
+    max-width: 390px;
+    margin: 0;
+    padding: 0 20px;
+    /* padding: 16px; */
+    /* height: 50px; */
+    border-radius: 5px;
+}
+
+.h_top .h_top_img{
+    width: 360px;
+    /* margin-top: -0px; */
+    margin-left: -15px;
+    
+}
+.home .home-img-settings{
+    margin-left: 290px;
+    margin-top: -50px;
+    position: absolute;
+}
+.home .home-heading{
+    margin-top: -30px;
+    margin-left: 120px;
+}
+.now-playing .now-card{
+    padding: 30px;
+    box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+    margin-top: 56px;
+    background: rgba(244, 244, 244, 1);
+
+    /* background: gray; */
+}
+.search .search-in{
+    width: Fixed (342px)px;
+    height: Hug (42px)px;
+    background: rgba(244, 244, 244, 1);
+    box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.25);
+    margin-top: 24px;
+    padding: 9px 67px 9px 77px;
+    gap: 10px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
+}
+.popular img{
+    width: 322px;
+
+}
+.nv-ftr{
+    height: 90px;
+    width: 355px;
+    /* margin-left: -15px; */
+    /* position: absolute; */
+    margin-top: -80px;
+}

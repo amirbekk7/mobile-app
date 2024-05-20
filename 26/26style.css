@@ -1,0 +1,57 @@
+.splide{
+  width: 350px;
+  height: 200px;
+  margin-top: 10px;
+  margin-left: -20px;
+}
+.splide__slide{
+    /* margin-top: 100px; */
+    background-color: #fff;
+    margin-top: 1110px;
+}
+
+.container{
+    max-width: 390px;
+    margin: 0;
+    padding: 0 20px;
+    /* padding: 16px; */
+    height: 750px;
+    border-radius: 5px;
+}
+
+.h_top .h_top_img{
+    width: 360px;
+    /* margin-top: -0px; */
+    margin-left: -15px;
+}
+.cheleng .chenelg_h{
+    margin-top: -599px;
+    margin-left: 10px;
+}
+.card_cheleng{
+    margin-top: -60px;
+    margin-left: 270px;
+    width: 50px;
+    height: 43px;
+    border-radius: 20%;
+    background: rgb(45, 40, 40);
+}
+.star .star_img{
+    margin-top: 0px;
+    margin-left: -30px;
+}
+.splide_img{
+    position: absolute;
+    margin-top: -1111px;
+    margin-left: 116px;
+}
+.ftr_img{
+    height: 90px;
+    width: 375px;
+    margin-left: -15px;
+    margin-top: -1px;
+}
+.btn{
+    margin-top: -250px;
+    margin-left: -10px;
+}

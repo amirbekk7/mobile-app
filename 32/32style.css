@@ -1,0 +1,93 @@
+.container{
+    max-width: 390px;
+    margin: 0;
+    padding: 0 20px;
+    /* padding: 16px; */
+    /* height: 50px; */
+    border-radius: 5px;
+}
+
+.h_top .h_top_img{
+    width: 360px;
+    /* margin-top: -0px; */
+    margin-left: -15px;
+    
+}
+.st-img{
+    margin-left: 270px;
+    margin-top: -1px;
+    position: absolute;
+}
+.user-card{
+    width: 150px;
+    height: 150px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #e6dfdf;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    margin-top: 24px;
+    margin-left: 80px;
+}
+.user {
+    /* display: flex; */
+    justify-content: center;
+}
+.user-name{
+    margin-top: 20px;
+    margin-left: 90px;
+}
+.area{
+    margin-top: -20px;
+    margin-left: 120px;
+}
+.item{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    gap: 50px;
+}
+.bar{
+    margin-left: -50px;
+}
+.link{
+    text-decoration: none;
+    color: gray;
+    font-size: 10px;
+}
+.link-sp{
+    color: black;
+}
+.post-card{
+    width: 95px;
+    height: 92px;
+    background-color: #ccc5c5;
+}
+.post{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+.post-card2{
+    width: 95px;
+    height: 92px;
+    background-color: #ccc5c5;
+}
+.post2{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 10px;
+}
+.post-card3{
+    width: 95px;
+    height: 92px;
+    background-color: #ccc5c5;
+}
+.post3{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 10px;
+}

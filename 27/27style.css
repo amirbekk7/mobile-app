@@ -1,0 +1,59 @@
+.container{
+    max-width: 390px;
+    margin: 0;
+    padding: 0 20px;
+    /* padding: 16px; */
+    /* height: 50px; */
+    border-radius: 5px;
+}
+
+.h_top .h_top_img{
+    width: 360px;
+    /* margin-top: -0px; */
+    margin-left: -15px;
+}
+.workout{
+    margin-top: -672px;
+}
+.workout .card_workout{
+    width: 48px;
+height: 48px;
+background: rgba(196, 196, 196, 1);
+
+gap: 0px;
+border-radius: 12px ;
+opacity: 0px;
+ margin-top: -60px;
+margin-left: 270px;
+}
+.workout .workout_name{
+    width: Fixed (268px)px;
+height: Hug (8px)px;
+margin-top: 55px;
+padding: 2px 1px 2px 11px;
+gap: 0px;
+border-radius: 0px 8px 8px 0px;
+justify-content: space-between;
+opacity: 0px;
+background: rgba(208, 208, 208, 1);
+box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.25);
+
+}
+.splide{
+    /* gap: 90px; */
+margin-top: 200px;
+}
+.splide .splide_img{
+    width: 200px;
+    margin-left: 20px;
+}
+.ftr_img{
+    height: 90px;
+    width: 375px;
+    margin-left: -15px;
+    /* position: absolute; */
+    margin-top: 351px;
+}
+.footer{
+    margin-top: 317px;
+}

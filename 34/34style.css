@@ -1,0 +1,67 @@
+.container{
+    max-width: 390px;
+    margin: 0;
+    padding: 0 20px;
+}
+
+.h_top .h_top_img{
+    width: 360px;
+    /* margin-top: -0px; */
+    margin-left: -15px;
+}
+.acc img{
+    width: 300px;
+    margin-left: 10px;
+}
+.acc{
+    margin-top: 30px;
+}
+.flw span{
+    padding: 12px;
+    background-color: black;
+    color: white;
+    border-radius: 12px;
+    margin-left: 250px;
+    margin-top: -60px;
+    position: absolute;
+}
+.flw p{
+    margin-top: -20px;
+    margin-left: 16px;
+}
+.flw h3{
+    margin-left: 16px;
+}
+.about-p{
+    font-size: 10px;
+    margin-left: 16px;
+    margin-top: -10px;
+}
+.about-h6{
+    margin-top: 30px;
+    margin-left: 16px;
+}
+.friends h4{
+    margin-left: 16px;
+}
+.friends img{
+    width: 340px;
+    margin-left: 4px;
+}
+.photos-card{
+    width: 95px;
+    height: 92px;
+    background-color: #ccc5c5;
+    margin-top: 50px;
+    /* margin-left: -20px; */
+}
+.photos{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-left: -5px;
+}
+.photos h4{
+    position: absolute;
+    margin-left: -186px;
+}

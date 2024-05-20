@@ -1,0 +1,107 @@
+.container{
+    max-width: 390px;
+    margin: 0;
+    padding: 0 20px;
+    /* padding: 16px; */
+    /* height: 50px; */
+    border-radius: 5px;
+}
+
+.h_top .h_top_img{
+    width: 360px;
+    /* margin-top: -0px; */
+    margin-left: -15px;
+    
+}
+.card_data{
+    width: 48px;
+height: 48px;
+background: rgba(196, 196, 196, 1);
+
+gap: 0px;
+border-radius: 12px ;
+opacity: 0px;
+ margin-top: -60px;
+margin-left: 270px;
+}
+.data #data_span{
+    color: black;
+    font-size: 25px;
+    /* position: absolute; */
+    margin-top: -22px;
+}
+.date .date_card{
+    width: Fixed (61px)px;
+height: Hug (80px)px;
+background: rgba(196, 196, 196, 1);
+padding: 18px 12px 18px 12px;
+gap: 0px;
+border-radius: 8px ;
+justify-content: space-between;
+opacity: 0px;
+
+}
+.date{
+    display: flex;
+    gap: 30px;
+    /* margin-top: 50px; */
+    padding-top: 27px;
+}
+ .jogging_card{
+    width: Fixed (342px)px;
+height: Fixed (120px)px;
+padding: 38px 12px 38px 12px;
+gap: 64px;
+border-radius: 16px;
+opacity: 0px;
+background: rgba(38, 38, 38, 1);
+/* padding-top: 11px; */
+}
+.jogging_img{
+    display: flex;
+    gap: 50px;
+    margin-left: 35px;
+}
+.status .status_card{
+    width: 159px;
+    height: 208px;
+    /* top: 491px;
+    left: 24px; */
+    gap: 0px;
+    opacity: 0px;
+    background: rgba(196, 196, 196, 1);
+    border-radius: 12px;
+}
+.status_card img{
+    width: 56px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.status_card .img{
+    width: 160px;
+    margin-left: -1px;
+}
+.status .status_col .status_col_card{
+    gap: 0px;
+    opacity: 0px;
+    background: rgba(196, 196, 196, 1);
+    border-radius: 12px;
+    width: 130px;
+    height: 102px;
+}
+.status_col_card img{
+    margin-top: 50px;
+    width: 100px;
+    margin-left: 10px;
+}
+.status_col{
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    margin-left: 190px;
+    margin-top: -210px;
+}
+.nv-ftr{
+    height: 90px;
+    width: 355px;
+}

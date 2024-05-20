@@ -1,0 +1,98 @@
+.container{
+    max-width: 390px;
+    margin: 0;
+    padding: 0 20px;
+    /* padding: 16px; */
+    /* height: 50px; */
+    border-radius: 5px;
+}
+
+.h_top .h_top_img{
+    width: 360px;
+    /* margin-top: -0px; */
+    margin-left: -15px;
+    
+}
+.food-type{
+    background-image: url(../imagess/Rectangle\ 103.png);
+    width: 360px;
+    height: 280px;
+    margin-left: -19.9px;
+    margin-top: -45px;
+}
+.data_food-p2{
+    margin-left: 200px;
+    margin-top: -35px;
+}
+.data_food-span{
+    background-color: gray;
+    padding: 10px 60px 10px 60px;
+    border-radius: 12px;
+    margin-left: 10px;
+    margin-top: 50px;
+}
+.data_food-p3{
+    margin-top: 30px;
+}
+.signture .signture-info-ava{
+    width: Hug (349px)px;
+    height: Hug (92px)px;
+    /* top: 559px;
+    left: 24px; */
+    padding: 8px 0px 0px 0px;
+    gap: 16px;
+    border-radius: 4px ;
+    border: 0.5px ;
+    opacity: 0px;
+    border: 0.5px solid rgba(208, 208, 208, 1)
+}
+.signture .signture-info-ava img{
+    /* width: 60px; */
+    margin-left: 242px;
+}
+.signture .signture-info-ava p{
+    margin-top: -50px;
+}
+.signture .signture-info-ava h4{
+    margin-top: -7px;
+}
+.signture .signture-info-ava sign-info-price{
+    margin-top: 50px;
+    position: absolute;
+}
+.signture .signture-info-ban{
+    width: Hug (349px)px;
+    height: Hug (92px)px;
+    /* top: 559px;
+    left: 24px; */
+    padding: 8px 0px 0px 0px;
+    gap: 16px;
+    border-radius: 4px ;
+    border: 0.5px ;
+    opacity: 0px;
+    border: 0.5px solid rgba(208, 208, 208, 1)
+}
+.nv-ftr{
+    height: 90px;
+    width: 355px;
+    /* margin-left: -15px; */
+    /* position: absolute; */
+    /* margin-top: 351px; */
+}
+.signture .signture-info-ban{
+    margin-top: 20px;
+}
+.signture .signture-info-ban img{
+    /* width: 60px; */
+    margin-left: 242px;
+}
+.signture .signture-info-ban p{
+    margin-top: -50px;
+}
+.signture .signture-info-ban h4{
+    margin-top: -7px;
+}
+.signture .signture-info-ban sign-info-price{
+    margin-top: 50px;
+    position: absolute;
+}
